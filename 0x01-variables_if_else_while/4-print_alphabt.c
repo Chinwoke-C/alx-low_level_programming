@@ -21,8 +21,6 @@ if (uppercase != 'E' && uppercase != 'Q') {
 putchar(uppercase);
 }
 uppercase++;
-}
-putchar('\n');
 
 return (0);
 }
