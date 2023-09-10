@@ -21,6 +21,6 @@ if (uppercase != 'E' && uppercase != 'Q') {
 putchar(uppercase);
 }
 uppercase++;
-
+}
 return (0);
 }
