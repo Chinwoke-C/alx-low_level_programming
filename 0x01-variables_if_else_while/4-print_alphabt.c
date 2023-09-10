@@ -10,9 +10,10 @@ while (lowercase <= 'z')
 {
 if (lowercase != 'e' && lowercase != 'q')
 {
-putchar(lowercase);
+putchar(lowercasei);
 }
 lowercase++;
 }
+putchar('\n');
 return (0);
 }
