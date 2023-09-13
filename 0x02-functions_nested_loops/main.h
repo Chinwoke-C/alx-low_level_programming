@@ -9,5 +9,6 @@ void print_alphabet_x10(void);
 int _isalpha(char c);
 int print_sign(int n);
 int _abs(int i);
+int print_last_digit(int n);
 /* Add additional function prototypes here if needed */
 #endif /* MAIN_H */
