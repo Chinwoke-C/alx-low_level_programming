@@ -3,6 +3,9 @@
  * main - Entry point
  * Return: Always 0 (success)
  **/
+/**
+ * print_alphabet
+ **/
 void print_alphabet(void)
 {
 char letter = 'a';
